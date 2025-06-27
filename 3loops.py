@@ -1,5 +1,5 @@
 #for loops
-'''
+
 #iterating over a string
 name = 'Shreya'
 for i in name:
@@ -13,58 +13,58 @@ colors = ["color", "green", "blue", "yellow"]
 for x in colors:
     print(x)
     for i in x:
-        print(i)'''
+        print(i)
 
 #range
-# #
-# for k in range(5):
-#     print(k+1)
-# for k in range(1,9):
-#     print(k)
+#
+for k in range(5):
+    print(k+1)
+for k in range(1,9):
+    print(k)
 
-# for k in range(1,12,3):
-#     print(k)
+for k in range(1,12,3):
+    print(k)
 
 #while loop
 
-# i = 0
-# while(i<=5):
-#     print(i)
-#     i = i + 1
+i = 0
+while(i<=5):
+    print(i)
+    i = i + 1
 
-# i = int(input("enter"))
-# while(i<=20):
-#     i = int(input("enter"))
-#     print(i)
-# print("done")
+i = int(input("enter"))
+while(i<=20):
+    i = int(input("enter"))
+    print(i)
+print("done")
 
-# count = 4
-# while(count>0):
-#     print(count)
-#     count = count - 1
-# else:
-#     print("im inside else")
+count = 4
+while(count>0):
+    print(count)
+    count = count - 1
+else:
+    print("im inside else")
 
 #break stmts
 
-# for i in range(0,11):
-#     print("5 X", i+1, "=", 5 * (i+1))
-#     if(i == 10):
-#         break  //skip the loop
-# print("loop ko chod")
-#
-# for i in range(12):
-#     if (i == 10):
-#         print("skip the iteration")
-#         continue
-#     print("5 X", i+1, "=", 5 * (i+1))
+for i in range(0,11):
+    print("5 X", i+1, "=", 5 * (i+1))
+    if(i == 10):
+        break  //skip the loop
+print("loop ko chod")
+
+for i in range(12):
+    if (i == 10):
+        print("skip the iteration")
+        continue
+    print("5 X", i+1, "=", 5 * (i+1))
 
 #for loops with else
-#
-# for i in []:
-#     print(i)
-# else:
-#     print("Sorry")
+
+for i in []:
+    print(i)
+else:
+    print("Sorry")
 
 #example
 for i in range(5):
