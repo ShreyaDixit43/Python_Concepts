@@ -1,5 +1,4 @@
-Welcome to the Python Concepts repository! This repository is a reflection of my Python learning journey,
-I have documented clear and concise examples of fundamental and intermediate programming concepts. 
+Welcome to the Python Concepts repository! This repository is a reflection of my Python learning journey,where I have documented clear and concise examples of fundamental and intermediate programming concepts.
 Each script represents a step in my exploration of Python, focusing on specific topics to build a strong foundation incrementally.
 
 ### Basics
